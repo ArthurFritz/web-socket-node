@@ -1,2 +1,5 @@
 # web-socket-node
-This test creation web socket client and server in the Node.js
+Test use websocket, client and server in the Node.js
+
+Run this project 
+`npm start` or `node index.js`
