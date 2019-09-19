@@ -1,0 +1,16 @@
+{
+  "name": "ws-local",
+  "version": "1.0.0",
+  "description": "This example of ws-local to tests comunications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Arthur Fritz Santiago",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.1.2"
+  }
+}
